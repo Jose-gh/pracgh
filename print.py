@@ -3,3 +3,5 @@ Python 3.6.9 (default, Jul 17 2020, 12:50:27)
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> a ='Hola Mundo'
 >>> print(a)
+b='Esto me ignoraba'
+print(b)
